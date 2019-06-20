@@ -156,16 +156,7 @@ h2 {
   font-size: 32px;
 }
 
-h3 {
-  font-size: 28px;
-  font-weight: bold;
-}
 
-h4 {
-  font-size: 24px;
-  font-weight: bold;
-  margin: 0 0 20px 0;
-}
 
 p {
   text-align: justify;
@@ -267,29 +258,6 @@ ul .logoTxt {
   margin: 0 auto;
 }
 
-.company {
-  background-color: white;
-  color: black;
-}
-
-.company .container {
-  display: flex;
-  align-items: center;
-  padding: 1rem 0rem;
-  background-color: cadetblue;
-}
-
-.company .container span {
-  display: ;
-  align-items: ;
-  padding: ;
-}
-
-.company .container img {
-  height: 1.5rem;
-  padding-left: 0.5rem;
-  padding-right: 1rem;
-}
 
 .main-banner {
   display: flex;
@@ -330,10 +298,7 @@ ul .logoTxt {
   opacity: 0.8;
 }
 
-.headline h4 {
-  font-size: 1rem;
-  margin-bottom: 0.25rem;
-}
+
 
 .headline h1 {
   font-size: 2rem;
@@ -430,10 +395,6 @@ ul .logoTxt {
   font-size: 1rem;
   font-weight: bold;
 }
-
-/* Inventory Section I & II */
-
-
 
 /* Footer */
 footer div {
